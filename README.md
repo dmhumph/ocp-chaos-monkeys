@@ -1,5 +1,3 @@
-![Monkey-Ops logo](resources/images/monkey-ops-logo.jpg)
-
 ***
 
 ## What is Monkey-Ops
